@@ -1,0 +1,23 @@
+﻿material_code,type_code,unit_size,description
+CC-F01            ,FERT,500 g,500g Nut Muesli
+CC-F02            ,FERT,500 g,500g Blueberry Muesli
+CC-F03            ,FERT,500 g,500g Strawberry Muesli
+CC-F04            ,FERT,500 g,500g Raisin Muesli
+CC-F05            ,FERT,500 g,500g Original Muesli
+CC-F06            ,FERT,500 g,500g Mixed Fruit Muesli
+CC-F11            ,FERT,1 kg,1kg Nut Muesli
+CC-P04            ,ROH ,1 piece,Small Bag (500g)
+CC-R01            ,ROH ,1 kg,Nuts
+CC-R02            ,ROH ,1 kg,Blueberries
+CC-R03            ,ROH ,1 kg,Strawberries
+CC-R04            ,ROH ,1 kg,Raisins
+CC-R05            ,ROH ,1 kg,Wheat
+CC-R06            ,ROH ,1 kg,Oats
+CC-F12            ,FERT,1 kg,1kg Blueberry Muesli
+CC-F13            ,FERT,1 kg,1kg Strawberry Muesli
+CC-F14            ,FERT,1 kg,1kg Raisin Muesli
+CC-F15            ,FERT,1 kg,1kg Original Muesli
+CC-F16            ,FERT,1 kg,1kg Mixed Fruit Muesli
+CC-P01            ,ROH ,1 piece,Large Box (1kg)
+CC-P02            ,ROH ,1 piece,Large Bag (1kg)
+CC-P03            ,ROH ,1 piece,Small Box (500g)

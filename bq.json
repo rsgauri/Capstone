@@ -1,0 +1,8 @@
+{"BigQuery Schema":[
+    {"name": "doc_number", "type": "INTEGER"},
+    {"name": "item", "type": "INTEGER"},
+    {"name": "material_code", "type": "STRING"},
+    {"name": "price", "type": "FLOAT"},
+    {"name": "quantity", "type": "INTEGER"}
+  ]}
+  
